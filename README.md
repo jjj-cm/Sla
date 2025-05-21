@@ -330,5 +330,4 @@ function CheckQuest()
             LevelQuest = 1
             NameQuest = "ShipQuest2"
             NameMon = "Ship Steward"
-            CFrameQuest = CFrame.new(968.80957, 125.092171, 33244.125)         
-            CFrameMon = CFrame.new(
+            CFrameQuest = CFrame.new(968.80957, 125.092171, 33244.125)
